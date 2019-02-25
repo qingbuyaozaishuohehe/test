@@ -10,6 +10,12 @@ import org.springframework.context.annotation.Configuration;
 import java.net.InetAddress;
 import java.net.UnknownHostException;
 
+/**
+ * es 配置
+ *
+ * @author xuzhenqin
+ * @date 2019/2/25
+ */
 @Configuration
 public class myconfig {
 
